@@ -1,5 +1,5 @@
 # 💫 About Me:
-🚀 I'm currently working on TheShop, and Android app for an online shop, using Java, Spring Boot for the backend and MySQL Database.<br>👥 I'm looking to collaborate on any innovative development projects, especially those that address real-world problems.<br>🤝 I am looking for help with improving development workflows for mobile apps and enhancing backend security.<br>🌱 I am currently learning advances Spring Boot features.<br>💬 Ask me about Android Development, Spring Boot, or solving problems through technology.<br>⚡ Slowly becoming a coffee addict. I mean, aren't we all
+🚀 I'm currently working on TheShop, and Android app for an online shop, using Java, Spring Boot for the backend and MySQL Database.<br>👥 I'm looking to collaborate on any innovative development projects, especially those that address real-world problems.<br>🤝 I am looking for help with improving development workflows for mobile apps and enhancing backend security.<br>🌱 I am currently learning advances Spring Boot features.<br>💬 Ask me about Android Development, Spring Boot, or solving problems through technology.<br>⚡ Slowly becoming a coffee addict. I mean, aren't we all.
 
 
 ## 🌐 Socials:
